@@ -1,3 +1,5 @@
+package TemperatureConverter;
+
 public class TemperatureConverter {
 
     public static double celsiusToFahrenheit(double temperature) {

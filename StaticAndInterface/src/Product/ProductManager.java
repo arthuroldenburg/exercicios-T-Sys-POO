@@ -1,3 +1,5 @@
+package Product;
+
 import java.util.ArrayList;
 
 public class ProductManager {
@@ -14,7 +16,7 @@ public class ProductManager {
 
     public static void displayAllProducts() {
         for (Product product : products) {
-            System.out.println("Product Name: " + product.name + " Price: " + product.price);
+            System.out.println("Product.Product Name: " + product.name + " Price: " + product.price);
         }
     }
 

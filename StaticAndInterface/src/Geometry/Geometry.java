@@ -1,3 +1,5 @@
+package Geometry;
+
 public class Geometry {
     public static double squareArea(double side) {
         return side * side;
